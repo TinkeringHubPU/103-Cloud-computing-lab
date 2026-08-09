@@ -1,0 +1,62 @@
+[
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '1', 'FactText': '\"AWS Lambda allows you to run code without provisioning or managing servers, and you only pay for the compute time you consume.\"'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '2', 'FactText': 'Amazon S3 is designed to provide 99.999999999% (11 9''s) of data durability of objects over a given year.'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '3', 'FactText': 'Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability.'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '4', 'FactText': '\"AWS was officially launched in 2006, starting with three initial services: S3, SQS, and EC2.\"'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '5', 'FactText': 'An AWS Region is a physical location in the world where AWS has multiple Availability Zones.'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '6', 'FactText': 'Amazon Bedrock is a fully managed service that makes foundation models from Amazon and leading AI startups available via an API.'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '7', 'FactText': 'AWS Lambda functions have a maximum execution time limit of 15 minutes per invocation.'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '8', 'FactText': '\"Amazon API Gateway can handle hundreds of thousands of concurrent API calls and manages traffic, authorization, and monitoring.\"'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '9', 'FactText': 'AWS IAM (Identity and Access Management) is completely free to use; you only pay for the other AWS services your users consume.'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '10', 'FactText': '\"Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs.\"'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '11', 'FactText': 'Amazon EC2 Spot Instances let you take advantage of unused EC2 capacity in the AWS cloud at up to a 90% discount.'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '12', 'FactText': '\"AWS CloudWatch collects monitoring and operational data in the form of logs, metrics, and events to give a unified view of AWS resources.\"'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '13', 'FactText': '\"Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service, named after the default DNS port 53.\"'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '14', 'FactText': 'AWS Amplify offers a complete set of tools and services to build and host full-stack applications on AWS.'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '15', 'FactText': 'Amazon SNS (Simple Notification Service) is a fully managed messaging service for both application-to-application and application-to-person communication.'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '16', 'FactText': 'AWS Free Tier provides new customers with the ability to explore and try out AWS services free of charge up to specified limits.'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '17', 'FactText': '\"An AWS Availability Zone (AZ) consists of one or more discrete data centers, each with redundant power, networking, and connectivity.\"'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '18', 'FactText': '\"Amazon RDS (Relational Database Service) supports multiple database engines including MySQL, PostgreSQL, MariaDB, Oracle, and SQL Server.\"'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '19', 'FactText': 'AWS Step Functions is a visual workflow service that helps developers use AWS services to build distributed applications and automate processes.'}"
+  },
+  {
+    "Statement": "INSERT INTO \"generator\" VALUE {'FactId': '20', 'FactText': '\"AWS CloudTrail enables governance, compliance, operational auditing, and risk auditing of your AWS account by recording API calls.\"'}"
+  }
+]
